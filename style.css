@@ -1,0 +1,14 @@
+.fahim{color: rgb(46, 46, 246);}
+h1{font-size: 50px;}
+body{
+    font-family: 'Atkinson Hyperlegible', sans-serif;
+}
+.half-width{
+    width: 40%;
+    float:left;
+    margin-left:5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
